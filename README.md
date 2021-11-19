@@ -1,2 +1,2 @@
 # RaspberryPi
-school assignments from ad academie roosendaal
+Raspberry Pi opdrachten voor ad academie roosendaal.
